@@ -293,7 +293,7 @@ containing a value of this type.
 <tr><td><code>dismiss</code></td><td>1</td><td></td></tr>
 <tr><td><code>choice</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name android:swipeActionLeft
+          @attr name com.fortysevendeg.android.swipelistview:swipeActionLeft
         */
         public static final int SwipeListView_swipeActionLeft = 8;
         /**
@@ -311,7 +311,7 @@ containing a value of this type.
 <tr><td><code>dismiss</code></td><td>1</td><td></td></tr>
 <tr><td><code>choice</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name android:swipeActionRight
+          @attr name com.fortysevendeg.android.swipelistview:swipeActionRight
         */
         public static final int SwipeListView_swipeActionRight = 9;
         /**
@@ -325,7 +325,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name android:swipeAnimationTime
+          @attr name com.fortysevendeg.android.swipelistview:swipeAnimationTime
         */
         public static final int SwipeListView_swipeAnimationTime = 1;
         /**
@@ -335,7 +335,7 @@ containing a value of this type.
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name android:swipeBackView
+          @attr name com.fortysevendeg.android.swipelistview:swipeBackView
         */
         public static final int SwipeListView_swipeBackView = 6;
         /**
@@ -349,7 +349,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name android:swipeCloseAllItemsWhenMoveList
+          @attr name com.fortysevendeg.android.swipelistview:swipeCloseAllItemsWhenMoveList
         */
         public static final int SwipeListView_swipeCloseAllItemsWhenMoveList = 4;
         /**
@@ -359,7 +359,7 @@ containing a value of this type.
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name android:swipeDrawableChecked
+          @attr name com.fortysevendeg.android.swipelistview:swipeDrawableChecked
         */
         public static final int SwipeListView_swipeDrawableChecked = 10;
         /**
@@ -369,7 +369,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name android:swipeDrawableUnchecked
+          @attr name com.fortysevendeg.android.swipelistview:swipeDrawableUnchecked
         */
         public static final int SwipeListView_swipeDrawableUnchecked = 11;
         /**
@@ -379,7 +379,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name android:swipeFrontView
+          @attr name com.fortysevendeg.android.swipelistview:swipeFrontView
         */
         public static final int SwipeListView_swipeFrontView = 5;
         /**
@@ -398,7 +398,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>right</code></td><td>2</td><td></td></tr>
 <tr><td><code>left</code></td><td>3</td><td></td></tr>
 </table>
-          @attr name android:swipeMode
+          @attr name com.fortysevendeg.android.swipelistview:swipeMode
         */
         public static final int SwipeListView_swipeMode = 7;
         /**
@@ -414,7 +414,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name android:swipeOffsetLeft
+          @attr name com.fortysevendeg.android.swipelistview:swipeOffsetLeft
         */
         public static final int SwipeListView_swipeOffsetLeft = 2;
         /**
@@ -430,7 +430,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name android:swipeOffsetRight
+          @attr name com.fortysevendeg.android.swipelistview:swipeOffsetRight
         */
         public static final int SwipeListView_swipeOffsetRight = 3;
         /**
@@ -444,7 +444,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name android:swipeOpenOnLongPress
+          @attr name com.fortysevendeg.android.swipelistview:swipeOpenOnLongPress
         */
         public static final int SwipeListView_swipeOpenOnLongPress = 0;
     };
